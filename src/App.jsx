@@ -5,7 +5,7 @@ import Hero from "./sections/Hero";
 import NavBar from "./sections/NavBar";
 import FirstVideo from "./sections/FirstVideo";
 import Jason from "./sections/Jason";
-import SecondVideo from "./sections/secondVideo";
+import SecondVideo from "./sections/SecondVideo";
 import Lucia from "./sections/Lucia";
 import PostCard from "./sections/PostCard";
 import Final from "./sections/Final";
