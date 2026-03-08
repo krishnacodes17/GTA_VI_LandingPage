@@ -1,3 +1,7 @@
+<img src="public//screenshort/gta .png" width="100%" />
+
+
+
 <div align="center">
 
   <img src="public/images/nav-logo.svg" alt="GTA VI Logo" width="120" />
@@ -29,7 +33,6 @@
 
 ## 📋 Table of Contents
 # Screenshot ✨
-![GTA VI Landing Page](public/screenshort/gta%20.png)
 ![GTA VI Landing Page](public/screenshort/gta-2.png)
 ![GTA VI Landing Page](public/screenshort/gta-3.png)
 1. [About The Project](#-about-the-project)
